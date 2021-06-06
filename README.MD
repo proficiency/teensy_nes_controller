@@ -11,6 +11,7 @@ Alternatively, for a more permanent solution, you can desolder the cable entirel
 ![](https://i.imgur.com/WsZt2VL.jpg)
 
 Once you've chosen one of these methods, all you need to do is upload the code to a Teensy set to Joystick mode. The device should show up as either "NES Controller" or the vendor ID associated with your Teensy.
+
 ![](https://i.imgur.com/wvDfpoQ.png)
 
 You can easily test the gamepad with either joy.cpl(Windows) or https://apps.nektro.net/gamepad/ although it's not guaranteed web-browser based testers will yield accurate results due to differences in how each browser implements gamepads.
