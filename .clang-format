@@ -59,4 +59,3 @@ SpacesInParentheses: 'true'
 SpacesInSquareBrackets: 'false'
 UseTab: Never
 AccessModifierOffset: '-4'
-...
